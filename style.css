@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Trad:wght@100..400&display=swap');
+</style>
 /* Reset básico e estilos globais */
 * {
     box-sizing: border-box;
