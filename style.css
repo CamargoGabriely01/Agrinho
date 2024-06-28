@@ -13,7 +13,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-    background-color: #33ff00;
+    background-color: #1e9800;
     color: #fff;
     padding: 10px 0;
 }
@@ -98,7 +98,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #11dc25;
+    background-color: #000000;
 }
 
 /* Estilos para o rodapé */
