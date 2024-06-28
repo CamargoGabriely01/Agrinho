@@ -13,7 +13,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-    background-color: #333;
+    background-color: #099f06;
     color: #fff;
     padding: 10px 0;
 }
@@ -60,7 +60,7 @@ header nav ul li a {
 }
 
 .container p {
-    color: #666;
+    color: #45df1a;
 }
 
 /* Estilos para o formulário de contato */
@@ -84,7 +84,7 @@ form textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #e7ef0d;
     border-radius: 3px;
 }
 
@@ -98,7 +98,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #555;
+    background-color: #11dc25;
 }
 
 /* Estilos para o rodapé */
