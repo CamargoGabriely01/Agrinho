@@ -63,7 +63,9 @@ header nav ul li a {
     color: #00000000;
 }
 
-.texto
+.texto{
+    color: #fff;
+}
 /* Estilos para o formulário de contato */
 form {
     max-width: 600px;
