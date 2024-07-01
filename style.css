@@ -59,13 +59,11 @@ header nav ul li a {
     margin-bottom: 20px;
 }
 
-.container p {
-    color: #00000000;
+.texto {
+    color: white;
 }
 
-.texto{
-    color: #fff;
-}
+
 /* Estilos para o formulário de contato */
 form {
     max-width: 600px;
